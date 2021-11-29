@@ -50,7 +50,7 @@ TABLES
 |LUKMAN MAHAMUD YAHAYA | Content Cell  |  
 |AISHATU MUSA MUHAMMAD   | Content Cell  |
 |AMINA HUSSAINI BADAROMO   | Content Cell  | 
-| BABANGIDA YAKUBU   | Content Cell  |
+| BABANGIDA YAKUBU   | R  |
 | HASSAN MUHAMMAD ALIYU  | Content Cell  |  
 |AMINU LADAN ZAILANI   | Content Cell  |
 | IBRAHIM MUHAMMAD   | Content Cell  | 
