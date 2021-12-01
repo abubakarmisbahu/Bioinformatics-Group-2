@@ -1,7 +1,7 @@
 # INTRODUCTION TO BIOINFORMATICS GROUP 2 CA.
 
 ## ABOUT THE GROUP
-This group contains 15 members, which is headed by Abubakar Misbahu, we collaborate with each other to make sure that we successefully do the assingment (CA) without any problems.
+This group contains 15 members, which is headed by Abubakar Misbahu, we collaborate with each other to make sure that we successefully do the assingment (CA) without any problems. Each member will upload his/her script and commit necessary changes. This README.MD cantains information about the names of the members and the softwares they used. 
 
 ## NAMES OF ALL MEMBERS OF THE GROUP
 
