@@ -31,18 +31,18 @@ TABLES
 |  ABUBAKAR MISBAHU  | Bash  |
 |FAHAD ABDULLAHI  | Java Script  | 
 | USMAN MUHAMMAD    | C++  |
-| ALIYU ISYAKU ADAMU  | Content Cell  |  
+| ALIYU ISYAKU ADAMU  |C++  |  
 | HASHIM H. BABA   | Content Cell  |
-|LUKMAN MAHAMUD YAHAYA | Content Cell  |  
-|AISHATU MUSA MUHAMMAD   | Content Cell  |
-|AMINA HUSSAINI BADAROMO   | Content Cell  | 
+|LUKMAN MAHAMUD YAHAYA | Java  |  
+|AISHATU MUSA MUHAMMAD   | R  |
+|AMINA HUSSAINI BADAROMO   | Python  | 
 | BABANGIDA YAKUBU   | R  |
 | HASSAN MUHAMMAD ALIYU  | Content Cell  |  
-|AMINU LADAN ZAILANI   | Content Cell  |
-| IBRAHIM MUHAMMAD   | Content Cell  | 
-|AHAMAD KHALID UMAR  | Content Cell  |  
+|AMINU LADAN ZAILANI   |Bash  |
+| IBRAHIM MUHAMMAD   | Bash  | 
+|AHAMAD KHALID UMAR  | Java scipt  |  
 | ABDULMALIK SANUSI  | Content Cell  |
-| ABDURRAHAMAN A. ABDULLAHI  | Content Cell  |
+| ABDURRAHAMAN A. ABDULLAHI  | Python  |
 
 ## WORKFLOW
  
