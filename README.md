@@ -10,7 +10,7 @@ This group contains 15 members, which is headed by Abubakar Misbahu, we collabor
 2. FAHAD ABDULLAHI
 3. USMAN MUHAMMAD  
 4. ALIYU ISYAKU ADAMU  
-5. HASHIM H. BABA 
+5. HASHIM H. BALA 
 6. LUKMAN MAHAMUD YAHAYA
 7. AISHATU MUSA MUHAMMAD 
 8. AMINA HUSSAINI BADAROMO  
@@ -32,12 +32,12 @@ TABLES
 |FAHAD ABDULLAHI  | Java Script  | 
 | USMAN MUHAMMAD    | C++  |
 | ALIYU ISYAKU ADAMU  |C++  |  
-| HASHIM H. BABA   | Content Cell  |
+| HASHIM H. BALA   | Python  |
 |LUKMAN MAHAMUD YAHAYA | Java  |  
 |AISHATU MUSA MUHAMMAD   | R  |
 |AMINA HUSSAINI BADAROMO   | Python  | 
 | BABANGIDA YAKUBU   | R  |
-| HASSAN MUHAMMAD ALIYU  | Content Cell  |  
+| HASSAN MUHAMMAD ALIYU  | Python  |  
 |AMINU LADAN ZAILANI   |Bash  |
 | IBRAHIM MUHAMMAD   | Bash  | 
 |AHAMAD KHALID UMAR  | Java scipt  |  
