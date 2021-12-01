@@ -45,6 +45,20 @@ TABLES
 | ABDURRAHAMAN A. ABDULLAHI  | Python  |
 
 ## WORKFLOW
+
+![WORKFLOW1-page0001](https://user-images.githubusercontent.com/95080134/144318977-10b2f47a-694b-4452-8e15-bed5b1e8ffeb.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  
