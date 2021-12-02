@@ -49,11 +49,11 @@ TABLES
 
 
 ## HELP
+To form an exact scripts from our repository, a general script is needed by which it contains information on cloning the repository itself. Use git clone followed by the link to our repository allows you to clone. After cloning the script, it will provide command to change the directory from the current repository to the Bioinformatics group 2. To execute the scripts, you need to add rights to execute which can be achieved by chmod +x script.
+Many YouTube videos are recommended for easy access and also all the resources necessary are available in the internet.
 
 
-
-
-## ACKOWNLEDGEMENT
+## ACKOWNLEDGEMENT 
 
 
 
