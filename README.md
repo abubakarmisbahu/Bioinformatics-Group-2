@@ -3,6 +3,9 @@
 ## ABOUT THE GROUP
 This group contains 15 members, which is headed by Abubakar Misbahu, we collaborate with each other to make sure that we successefully do the assingment (CA) without any problems. Each member will upload his/her script and commit necessary changes. This README.MD cantains information about the names of the members and the softwares they used. 
 
+## ABOUT BIOINFORMATICS
+Bioinformatics is a study of biology and computer science  which is concerned with the acquisition, storage, analysis, and dissemination of biological data, most often DNA and amino acid sequences. Bioinformatics uses computer programs for a variety of applications, including determining gene and protein functions, establishing evolutionary relationships, and predicting the three-dimensional shapes of proteins.
+
 ## NAMES OF ALL MEMBERS OF THE GROUP
 
 
@@ -54,7 +57,7 @@ Many YouTube videos are recommended for easy access and also all the resources n
 
 
 ## ACKOWNLEDGEMENT 
-We thanks Allah S.W.A. for given us the opportunity to work as a group in working through the assignment given to us. We will like to acknowledge our mentor Dr. Umar Ahamad PhD in his coregeou, motivations and guihe delivers. A prestigious thanks to Abdulaziz who collaborate with us in carrying out the group assignment. We also thanks all the members of our group in given there maximum cooperation in making the assignment possible. A special thanks to our parent who give us maximum support finacialy and orientally.
+We thanks Allah S.W.A. for given us the opportunity to work as a group in working through the assignment given to us. We will like to acknowledge our mentor Dr. Umar Ahamad PhD in his coregeou, motivations and guidence he delivers. A prestigious thanks to Abdulaziz who collaborate with us in carrying out the group assignment. We also thanks all the members of our group in given there maximum cooperation in making the assignment possible. A special thanks to our parent who give us maximum support finacialy and orientally.
 
 
 
