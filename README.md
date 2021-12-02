@@ -54,8 +54,7 @@ Many YouTube videos are recommended for easy access and also all the resources n
 
 
 ## ACKOWNLEDGEMENT 
-
-
+We thanks Allah S.W.A. for given us the opportunity to work as a group in working through the assignment given to us. We will like to acknowledge our mentor Dr. Umar Ahamad PhD in his coregeou, motivations and guihe delivers. A prestigious thanks to Abdulaziz who collaborate with us in carrying out the group assignment. We also thanks all the members of our group in given there maximum cooperation in making the assignment possible. A special thanks to our parent who give us maximum support finacialy and orientally.
 
 
 
